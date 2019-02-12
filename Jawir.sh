@@ -19,11 +19,11 @@ red='\e[1;31m'
 
 figlet Jin Tomang | lolcat
 
-echo -e  "_____________________________________________________________"
+echo -e  "_____________________________________________________________" | lolcat
 echo -e  "Tools    :IHT TEAM $white         " |lolcat
 echo -e  "Creadby  : TheLastKey   " |lolcat
 echo -e  "Contact  : musjadsakirang121@gmail.com $white " |lolcat
-echo -e  "_____________________________________________________________"
+echo -e  "_____________________________________________________________" | lolcat
 
 ###################################################
 # CTRL + C
